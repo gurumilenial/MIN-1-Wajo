@@ -2,7 +2,7 @@
 // Nilai ini boleh publik. Jangan pernah menempel kunci "service_role" atau "secret" di sini.
 window.APP_CONFIG = {
   SUPABASE_URL: "https://iiipaiwwhpgmrthuyrsu.supabase.co",
-  SUPABASE_KEY: "TEMPEL_KUNCI_PUBLIK_DI_SINI",
+  SUPABASE_KEY: "sb_publishable_2ltqW7bw3Q0P5pv9N9yZbQ_WYaepD-v",
 
   // Boleh dibiarkan. Dipakai untuk membentuk alamat email internal dari username.
   // Tidak ada email yang pernah dikirim. Ubah hanya jika muncul galat "email address is invalid".
